@@ -4,3 +4,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 This is new line add in this file.
+But now added for how to use pull from origin to our local repo.
